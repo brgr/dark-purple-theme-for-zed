@@ -1,0 +1,7 @@
+id = "dark-purple-theme"
+name = "Dark Purple Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Dominik Berger <dominik.berger@protonmail.com>"]
+description = "Ported from the Jetbrains Dark Purple Theme"
+repository = "https://github.com/brgr/dark-purple-theme-for-zed"
