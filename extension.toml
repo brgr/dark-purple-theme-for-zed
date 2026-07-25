@@ -1,6 +1,6 @@
 id = "dark-purple-theme"
 name = "Dark Purple Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Dominik Berger <dominik.berger@protonmail.com>"]
 description = "Ported from the Jetbrains Dark Purple Theme"
