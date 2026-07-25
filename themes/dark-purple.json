@@ -112,9 +112,9 @@
 
         "link_text.hover": "#7094ffff",
 
-        "version_control.added": "#76b366ff",
-        "version_control.modified": "#62baf5ff",
-        "version_control.deleted": "#7a7a99ff",
+        "version_control.added": "#5cc26eff",
+        "version_control.modified": "#4db8f7ff",
+        "version_control.deleted": "#e35c78ff",
 
         "conflict": "#b78fccff",
         "conflict.background": "#b78fcc1a",
